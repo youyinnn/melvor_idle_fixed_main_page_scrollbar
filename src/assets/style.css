@@ -5,9 +5,22 @@
 
 ::-webkit-scrollbar-thumb {
   border-radius: 50px;
-  background: #2fb17b;
+  background: #30c78d;
 }
 
 ::-webkit-scrollbar-track {
   background-color: #232a36;
+}
+
+.bg-selection {
+  padding-right: 0px !important;
+}
+
+.modal {
+  padding-right: 0px !important;
+}
+
+.modal::-webkit-scrollbar-thumb {
+  border-radius: 50px;
+  background: #ca2097;
 }

@@ -1,5 +1,5 @@
 {
-  "namespace": "foxed_main_page_scrollbar",
+  "namespace": "fixed_main_page_scrollbar",
   "setup": "setup.mjs",
   "load": ["assets/style.css"]
 }
