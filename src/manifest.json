@@ -1,5 +1,7 @@
 {
   "namespace": "fixed_main_page_scrollbar",
   "setup": "setup.mjs",
-  "load": ["assets/style.css"]
+  "icon": "icon.png",
+  "load": ["assets/style.css"],
+  "logo_attribution": "Flaticon: https://www.flaticon.com/free-icon/engineering_3079162"
 }
